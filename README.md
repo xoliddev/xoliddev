@@ -25,7 +25,7 @@ I design and ship complete software for real businesses in Uzbekistan — from t
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,vite,expo&perline=6" alt="TypeScript, Node.js, NestJS, React, Vite, Expo" /><br/>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,firebase&perline=6" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,nextjs&perline=6" alt="Python, FastAPI, PostgreSQL, Redis, Docker, Firebase" /><br/>
   <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,cloudflare,vercel&perline=6" alt="Linux, Git, GitHub, GitHub Actions, Cloudflare, Vercel" />
 </p>
 
@@ -44,59 +44,65 @@ Loyalty-coin, fuel delivery and marketing platform for a gas-station network.
 
 - Customer & courier apps (Expo), web admin panel (React)
 - NestJS API · PostgreSQL double-entry coin ledger · Socket.IO live tracking
-- Payme / Click payments, Firebase SMS login, offline-first mobile cache
-- POS fraud signals, role-based staff panel, legal consent flow
+- Payme / Click payments, SMS login, offline-first mobile cache
 
 `TypeScript` `NestJS` `React` `Expo` `PostgreSQL` `Redis` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌸 [Parfumerose](https://github.com/xoliddev/parfumerose)
-<sub>Telegram bot · attendance & payroll</sub>
+#### 🌹 Roses Parfume
+<sub>🔒 Private · retail platform</sub>
 
-Staff attendance and salary system for a multi-branch retail business.
+Mobile app, admin panel and API for a perfume retail chain.
 
-- Geofenced check-in / check-out with radius validation
-- Salaries, payouts, daily & monthly reports
-- Scheduled briefings and lateness reminders
-- AI assistant for admins (Gemini + Azure Speech)
+- Rose Club loyalty with TOTP member codes, Latin/Cyrillic search
+- Staff roles & permissions, attendance and payroll
+- Fastify 5 · Kysely · PostgreSQL with guards inside the database
 
-`Python` `aiogram` `PostgreSQL` `Redis` `APScheduler` `Docker`
+`TypeScript` `Fastify` `PostgreSQL` `React` `Expo`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🛋️ Arrizo Mebel
-<sub>🔒 Private · client project</sub>
+#### 🌸 Parfumerose
+<sub>🔒 Private · Telegram bot · attendance & payroll</sub>
 
-Business bot with a web API for a furniture company.
+Staff attendance and salary system for a multi-branch business: geofenced check-in, payouts,
+reports and an AI assistant for admins.
 
-- Telegram bot + FastAPI backend with JWT auth
-- AI features (Gemini, OpenAI), voice processing
-- Background workers, Redis, PostgreSQL
-
-`Python` `FastAPI` `aiogram` `PostgreSQL` `Redis`
+`Python` `aiogram` `PostgreSQL` `Redis` `APScheduler`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔳 [QR Code Generator](https://github.com/xoliddev/qrcodegenerator)
-<sub>Telegram bot + web</sub>
+#### 🛋️ Arrizo Mebel
+<sub>🔒 Private · client project</sub>
 
-Generate QR codes from a Telegram bot or a small web app.
+Business bot and FastAPI backend for a furniture company, with AI features (Gemini, OpenAI),
+voice processing and background workers.
 
-- aiogram 3 bot and FastAPI web interface
-- Async SQLite storage, scheduled jobs
-- Dockerized, deployed with keep-alive
-
-`Python` `aiogram 3` `FastAPI` `SQLite` `Docker`
+`Python` `FastAPI` `aiogram` `PostgreSQL` `Redis`
 
 </td>
 </tr>
 </table>
+
+### 🧩 Open source
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| 🦎 **[Chameleon Engine](https://github.com/xoliddev/chameleon-engine)** · [live](https://chameleonengine.vercel.app) | Industry-adaptive business web app: calculator, checkout, lead API, signed webhooks, EN/RU/UZ | `Next.js 15` `TypeScript` `Turso` |
+| 🎬 **[AI Video Studio](https://github.com/xoliddev/ai-video-studio)** | Uzbek AI video pipelines: script → Gemini TTS → timeline → headless Chrome → ffmpeg | `Python` `Puppeteer` `ffmpeg` |
+| 👨‍👩‍👧 **[Oila Hamyon](https://github.com/xoliddev/oila-hamyon)** | AI family accountant bot: text, voice and receipt input, exact Decimal ledger | `aiogram` `Gemini` `SQLite` |
+| 🔤 **[WordChain Bot](https://github.com/xoliddev/wordchain-bot)** | English word-chain game: CEFR-levelled bots, Elo PvP matchmaking, Uzbek translations | `aiogram` `SQLite` |
+| ⚔️ **[Ragdoll Evolution War](https://github.com/xoliddev/ragdoll-evolution-war)** · [play](https://xoliddev.github.io/ragdoll-evolution-war/) | Ragdoll-physics lane-battle roguelite, zero dependencies | `JavaScript` `Canvas` `Web Audio` |
+| 🗣️ **[uz-tts-tool](https://github.com/xoliddev/uz-tts-tool)** | Long Uzbek text → one natural MP3: resumable, parallel, loudness-normalised | `Python` `Gemini TTS` |
+| 🔌 **[youtube-playlist-mcp](https://github.com/xoliddev/youtube-playlist-mcp)** | MCP server that lets Claude read YouTube playlists and transcripts | `Python` `MCP` `Cloudflare` |
+| 🍢 **[Orzu Staff Bot](https://github.com/xoliddev/orzu-staff-bot)** | Restaurant staff bot: geofenced check-in, advances, payroll, Excel reports | `aiogram` `PostgreSQL` |
+| 🔳 **[QR Code Generator](https://github.com/xoliddev/qrcodegenerator)** | Voice, photo or text → personal web page + QR code | `aiogram` `FastAPI` |
 
 <br/>
 
