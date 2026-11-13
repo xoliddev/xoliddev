@@ -102,10 +102,7 @@ voice processing and background workers.
 | 🔤 **[WordChain Bot](https://github.com/xoliddev/wordchain-bot)** | English word-chain game: CEFR-levelled bots, Elo PvP — playable in the browser | [▶ open](https://xoliddev.github.io/demos/wordchain-bot/) | `aiogram` `SQLite` |
 | 👨‍👩‍👧 **[Oila Hamyon](https://github.com/xoliddev/oila-hamyon)** | AI family accountant bot: text, voice and receipt input, exact Decimal ledger | [▶ open](https://xoliddev.github.io/demos/oila-hamyon/) | `aiogram` `Gemini` `SQLite` |
 | ⏱️ **[Smena](https://github.com/xoliddev/smena-staff-bot)** | White-label restaurant staff bot: geofenced check-in, advances, payroll, Excel reports | [▶ open](https://xoliddev.github.io/demos/smena-staff-bot/) | `aiogram` `PostgreSQL` |
-| ⚔️ **[Ragdoll Evolution War](https://github.com/xoliddev/ragdoll-evolution-war)** | Ragdoll-physics lane-battle roguelite, zero dependencies | [▶ open](https://xoliddev.github.io/ragdoll-evolution-war/) | `JavaScript` `Canvas` `Web Audio` |
 | 🗣️ **[uz-tts-tool](https://github.com/xoliddev/uz-tts-tool)** | Long Uzbek text → one natural MP3: resumable, parallel, loudness-normalised | [▶ open](https://xoliddev.github.io/demos/uz-tts-tool/) | `Python` `Gemini TTS` |
-| 🔳 **[QR Code Generator](https://github.com/xoliddev/qrcodegenerator)** | Voice, photo or text → personal web page + QR code | [▶ open](https://xoliddev.github.io/demos/qrcodegenerator/) | `aiogram` `FastAPI` |
-| 🔌 **[youtube-playlist-mcp](https://github.com/xoliddev/youtube-playlist-mcp)** | MCP server that lets Claude read YouTube playlists and transcripts | [▶ open](https://xoliddev.github.io/demos/youtube-playlist-mcp/) | `Python` `MCP` `Cloudflare` |
 
 <br/>
 
