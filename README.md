@@ -96,6 +96,7 @@ voice processing and background workers.
 
 | Project | What it is | Demo | Stack |
 | --- | --- | --- | --- |
+| 💈 **[Navbat](https://github.com/xoliddev/navbat)** | Booking bot + Telegram Mini App + admin calendar for salons and clinics; race-safe slot engine, Payme/Click/Stars deposits | [▶ open](https://xoliddev.github.io/navbat/) | `TypeScript` `grammY` `Fastify` `PostgreSQL` `React` |
 | 🦎 **[Chameleon Engine](https://github.com/xoliddev/chameleon-engine)** | Industry-adaptive business web app: calculator, checkout, lead API, signed webhooks, EN/RU/UZ | [▶ open](https://chameleonengine.vercel.app) | `Next.js 15` `TypeScript` `Turso` |
 | 🛵 **[Dastavka Bot](https://github.com/xoliddev/dastavka-bot)** | Food ordering & delivery bot: customer, courier and admin roles, 900+ tests on real PostgreSQL | [▶ open](https://xoliddev.github.io/demos/dastavka-bot/) | `aiogram 3` `PostgreSQL` `Redis` |
 | 🎬 **[AI Video Studio](https://github.com/xoliddev/ai-video-studio)** | Uzbek AI video pipelines: script → Gemini TTS → timeline → headless Chrome → ffmpeg | [▶ open](https://xoliddev.github.io/demos/ai-video-studio/) | `Python` `Puppeteer` `ffmpeg` |
