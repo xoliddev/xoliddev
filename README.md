@@ -96,6 +96,7 @@ voice processing and background workers.
 
 | Project | What it is | Demo | Stack |
 | --- | --- | --- | --- |
+| 🤝 **[Pul Qarz](https://github.com/xoliddev/pul-qarz)** | Two-sided debt ledger bot + Mini App: debts count only after both confirm, then sealed in a hash chain; partial payments, reminders, tamper check | [▶ open](https://xoliddev.github.io/pul-qarz/) | `Python` `aiogram` `aiohttp` `SQLite` |
 | 🎓 **[Ustoz](https://github.com/xoliddev/ustoz)** | Learning-centre platform: web panel + bot + Mini App for 5 roles; leads, clash-aware timetable, attendance alerts to parents, tiyin-exact billing (Payme/Click/Uzum), payroll, tests, QR certificates | [▶ open](https://xoliddev.github.io/ustoz/) | `TypeScript` `React` `Fastify` `PostgreSQL` `grammY` |
 | 🛍️ **[Do'konim](https://github.com/xoliddev/dokonim)** | Telegram Mini App store builder: unlimited subcategories, variants, Payme/Click/Uzum/Stars; real Postgres demo in the browser | [▶ open](https://xoliddev.github.io/dokonim/) | `TypeScript` `React` `Fastify` `PostgreSQL` `grammY` |
 | 💈 **[Navbat](https://github.com/xoliddev/navbat)** | Booking bot + Telegram Mini App + admin calendar for salons and clinics; race-safe slot engine, Payme/Click/Stars deposits | [▶ open](https://xoliddev.github.io/navbat/) | `TypeScript` `grammY` `Fastify` `PostgreSQL` `React` |
