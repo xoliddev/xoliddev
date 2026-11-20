@@ -96,6 +96,7 @@ voice processing and background workers.
 
 | Project | What it is | Demo | Stack |
 | --- | --- | --- | --- |
+| 💊 **[Navbatchi Dorixona](https://github.com/xoliddev/navbatchi-dorixona)** | On-duty pharmacy finder bot + Mini App with a map: nearest vs cheapest at once, open-now filter, Latin/Cyrillic search with typos, pickup reservations with a code | [▶ open](https://xoliddev.github.io/navbatchi-dorixona/) | `Python` `aiogram` `aiohttp` `SQLite` `Leaflet` |
 | 🤝 **[Pul Qarz](https://github.com/xoliddev/pul-qarz)** | Two-sided debt ledger bot + Mini App: debts count only after both confirm, then sealed in a hash chain; partial payments, reminders, tamper check | [▶ open](https://xoliddev.github.io/pul-qarz/) | `Python` `aiogram` `aiohttp` `SQLite` |
 | 🎓 **[Ustoz](https://github.com/xoliddev/ustoz)** | Learning-centre platform: web panel + bot + Mini App for 5 roles; leads, clash-aware timetable, attendance alerts to parents, tiyin-exact billing (Payme/Click/Uzum), payroll, tests, QR certificates | [▶ open](https://xoliddev.github.io/ustoz/) | `TypeScript` `React` `Fastify` `PostgreSQL` `grammY` |
 | 🛍️ **[Do'konim](https://github.com/xoliddev/dokonim)** | Telegram Mini App store builder: unlimited subcategories, variants, Payme/Click/Uzum/Stars; real Postgres demo in the browser | [▶ open](https://xoliddev.github.io/dokonim/) | `TypeScript` `React` `Fastify` `PostgreSQL` `grammY` |
