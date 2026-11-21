@@ -96,6 +96,7 @@ voice processing and background workers.
 
 | Project | What it is | Demo | Stack |
 | --- | --- | --- | --- |
+| 🏠 **[Uy Ijara](https://github.com/xoliddev/uy-ijara)** | Rental listings bot + Mini App with a map: every flat gets a fair-price verdict (Arzon / Adolatli / Qimmat) against similar homes in its district, a live suggested price for landlords, scam warnings, contacts only after an accepted viewing | [▶ open](https://xoliddev.github.io/uy-ijara/) | `Python` `aiogram` `aiohttp` `SQLite` `Leaflet` |
 | 💊 **[Navbatchi Dorixona](https://github.com/xoliddev/navbatchi-dorixona)** | On-duty pharmacy finder bot + Mini App with a map: nearest vs cheapest at once, open-now filter, Latin/Cyrillic search with typos, pickup reservations with a code | [▶ open](https://xoliddev.github.io/navbatchi-dorixona/) | `Python` `aiogram` `aiohttp` `SQLite` `Leaflet` |
 | 🤝 **[Pul Qarz](https://github.com/xoliddev/pul-qarz)** | Two-sided debt ledger bot + Mini App: debts count only after both confirm, then sealed in a hash chain; partial payments, reminders, tamper check | [▶ open](https://xoliddev.github.io/pul-qarz/) | `Python` `aiogram` `aiohttp` `SQLite` |
 | 🎓 **[Ustoz](https://github.com/xoliddev/ustoz)** | Learning-centre platform: web panel + bot + Mini App for 5 roles; leads, clash-aware timetable, attendance alerts to parents, tiyin-exact billing (Payme/Click/Uzum), payroll, tests, QR certificates | [▶ open](https://xoliddev.github.io/ustoz/) | `TypeScript` `React` `Fastify` `PostgreSQL` `grammY` |
