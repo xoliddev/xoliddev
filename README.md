@@ -96,6 +96,7 @@ voice processing and background workers.
 
 | Project | What it is | Demo | Stack |
 | --- | --- | --- | --- |
+| 💌 **[To'y Taklifnoma](https://github.com/xoliddev/toy-taklifnoma)** | Wedding invitation site + bot: personal invitation pages with a live countdown and map, one-tap RSVP, the hosts' live guest count by side and group, signed QR check-in at the door | [▶ open](https://xoliddev.github.io/toy-taklifnoma/) | `Python` `aiogram` `aiohttp` `SQLite` `QR` |
 | 🏠 **[Uy Ijara](https://github.com/xoliddev/uy-ijara)** | Rental listings bot + Mini App with a map: every flat gets a fair-price verdict (Arzon / Adolatli / Qimmat) against similar homes in its district, a live suggested price for landlords, scam warnings, contacts only after an accepted viewing | [▶ open](https://xoliddev.github.io/uy-ijara/) | `Python` `aiogram` `aiohttp` `SQLite` `Leaflet` |
 | 💊 **[Navbatchi Dorixona](https://github.com/xoliddev/navbatchi-dorixona)** | On-duty pharmacy finder bot + Mini App with a map: nearest vs cheapest at once, open-now filter, Latin/Cyrillic search with typos, pickup reservations with a code | [▶ open](https://xoliddev.github.io/navbatchi-dorixona/) | `Python` `aiogram` `aiohttp` `SQLite` `Leaflet` |
 | 🤝 **[Pul Qarz](https://github.com/xoliddev/pul-qarz)** | Two-sided debt ledger bot + Mini App: debts count only after both confirm, then sealed in a hash chain; partial payments, reminders, tamper check | [▶ open](https://xoliddev.github.io/pul-qarz/) | `Python` `aiogram` `aiohttp` `SQLite` |
