@@ -96,6 +96,7 @@ voice processing and background workers.
 
 | Project | What it is | Demo | Stack |
 | --- | --- | --- | --- |
+| 🥕 **[Bozor Narxi](https://github.com/xoliddev/bozor-narxi)** | Crowdsourced bazaar prices: a bot, a public site and a Mini App; a trust-weighted median ignores a troll's fake price, "where is it cheap" with 30/90-day charts, a shopping list priced at every bazaar, price-drop alerts | [▶ open](https://xoliddev.github.io/bozor-narxi/) | `Python` `aiogram` `aiohttp` `SQLite` `SVG` |
 | 🏋️ **[Sport Zal](https://github.com/xoliddev/sport-zal)** | Gym Mini App + admin panel: live occupancy and quietest hours, a QR that changes every 30 s at the door, pass freezing, class booking with an automatic waitlist, revenue for the owner | [▶ open](https://xoliddev.github.io/sport-zal/) | `Python` `aiogram` `aiohttp` `SQLite` `QR` |
 | 📚 **[Kitob Klubi](https://github.com/xoliddev/kitob-klubi)** | Reading club bot + Mini App: one-tap page log, a daily reading flame with freezes, club marathons with a live fair-play leaderboard, certificates with a signed check code | [▶ open](https://xoliddev.github.io/kitob-klubi/) | `Python` `aiogram` `aiohttp` `SQLite` `SVG` |
 | 🚗 **[Avto Servis](https://github.com/xoliddev/avto-servis)** | Car service logbook bot + Mini App: next-service forecast from odometer readings (oil, filters, OSAGO, metan cylinder), workshop-confirmed records, odometer rollback guard, a signed service passport for buyers | [▶ open](https://xoliddev.github.io/avto-servis/) | `Python` `aiogram` `aiohttp` `SQLite` `SVG` |
