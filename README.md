@@ -96,6 +96,7 @@ voice processing and background workers.
 
 | Project | What it is | Demo | Stack |
 | --- | --- | --- | --- |
+| 📚 **[Kitob Klubi](https://github.com/xoliddev/kitob-klubi)** | Reading club bot + Mini App: one-tap page log, a daily reading flame with freezes, club marathons with a live fair-play leaderboard, certificates with a signed check code | [▶ open](https://xoliddev.github.io/kitob-klubi/) | `Python` `aiogram` `aiohttp` `SQLite` `SVG` |
 | 🚗 **[Avto Servis](https://github.com/xoliddev/avto-servis)** | Car service logbook bot + Mini App: next-service forecast from odometer readings (oil, filters, OSAGO, metan cylinder), workshop-confirmed records, odometer rollback guard, a signed service passport for buyers | [▶ open](https://xoliddev.github.io/avto-servis/) | `Python` `aiogram` `aiohttp` `SQLite` `SVG` |
 | 🔧 **[Usta Chaqir](https://github.com/xoliddev/usta-chaqir)** | Handyman-on-call bot + Mini App: price range before ordering, nearest well-rated master, the master driving toward you live on the map with ETA, overcharge guard, honest ratings, 30-day warranty | [▶ open](https://xoliddev.github.io/usta-chaqir/) | `Python` `aiogram` `aiohttp` `SQLite` `Leaflet` |
 | 💌 **[To'y Taklifnoma](https://github.com/xoliddev/toy-taklifnoma)** | Wedding invitation site + bot: personal invitation pages with a live countdown and map, one-tap RSVP, the hosts' live guest count by side and group, signed QR check-in at the door | [▶ open](https://xoliddev.github.io/toy-taklifnoma/) | `Python` `aiogram` `aiohttp` `SQLite` `QR` |
