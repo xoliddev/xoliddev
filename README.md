@@ -96,6 +96,7 @@ voice processing and background workers.
 
 | Project | What it is | Demo | Stack |
 | --- | --- | --- | --- |
+| 🎙️ **[Ovozli Kassa](https://github.com/xoliddev/ovozli-kassa)** | Voice cash register for a small shop: the seller says what was sold, an Uzbek parser builds the check, stock and cost update to the so'm, and the owner gets an automatic evening profit report | [▶ open](https://xoliddev.github.io/ovozli-kassa/) | `Python` `aiogram` `aiohttp` `SQLite` `Gemini` |
 | 🥕 **[Bozor Narxi](https://github.com/xoliddev/bozor-narxi)** | Crowdsourced bazaar prices: a bot, a public site and a Mini App; a trust-weighted median ignores a troll's fake price, "where is it cheap" with 30/90-day charts, a shopping list priced at every bazaar, price-drop alerts | [▶ open](https://xoliddev.github.io/bozor-narxi/) | `Python` `aiogram` `aiohttp` `SQLite` `SVG` |
 | 🏋️ **[Sport Zal](https://github.com/xoliddev/sport-zal)** | Gym Mini App + admin panel: live occupancy and quietest hours, a QR that changes every 30 s at the door, pass freezing, class booking with an automatic waitlist, revenue for the owner | [▶ open](https://xoliddev.github.io/sport-zal/) | `Python` `aiogram` `aiohttp` `SQLite` `QR` |
 | 📚 **[Kitob Klubi](https://github.com/xoliddev/kitob-klubi)** | Reading club bot + Mini App: one-tap page log, a daily reading flame with freezes, club marathons with a live fair-play leaderboard, certificates with a signed check code | [▶ open](https://xoliddev.github.io/kitob-klubi/) | `Python` `aiogram` `aiohttp` `SQLite` `SVG` |
